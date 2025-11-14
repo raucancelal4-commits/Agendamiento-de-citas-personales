@@ -12,10 +12,10 @@ Actualmente existen múltiples implementaciones del lenguaje en diversos lenguaj
 
 Markdown se usa ampliamente debido a:
 
-- **Facilidad de uso:** Se aprende rápidamente y permite centrarse en el contenido sin preocuparse por formatos complejos.
-- **Documentación clara:** Es el estándar para archivos `README.md`, wikis y documentación técnica.
-- **Colaboración:** Su formato en texto plano lo hace perfecto para sistemas de control de versiones como **Git**.
-- **Compatibilidad:** Funciona en múltiples herramientas como GitHub, GitLab, VS Code, Slack, Discord, etc.
+- **Facilidad de uso:** Se aprende rápidamente y permite centrarse en el contenido sin preocuparse por formatos complejos.  
+- **Documentación clara:** Es el estándar para archivos `README.md`, wikis y documentación técnica.  
+- **Colaboración:** Su formato en texto plano lo hace perfecto para sistemas de control de versiones como **Git**.  
+- **Compatibilidad:** Funciona en múltiples herramientas como GitHub, GitLab, VS Code, Slack, Discord, etc.  
 - **Eficiencia:** Facilita la escritura rápida sin necesidad de editores pesados como Word.
 
 ---
@@ -78,13 +78,13 @@ Markdown se usa ampliamente debido a:
 ### Enlaces
 
 ```
-[GitHub](https://github.com)
+[Visitar GitHub](https://github.com) 
 ```
 
 ### Imágenes
 
 ```
-![Logotipo de MarkDown](https://d33wubrfki0l68.cloudfront.net/59f29676ef5e4d74685e14f801bbc10c2dbd3cef/c0688/lesson-images/markdown-1-markup.png)
+![Logo de Markdown](https://store-images.s-microsoft.com/image/apps.50768.14132366815472789.d93aceff-2beb-4a3c-9a29-f28c2ff8b309.00edb73c-9c63-4902-b120-e9b1fa714f4e)
 ```
 
 ### Tablas
@@ -107,16 +107,14 @@ Markdown se usa ampliamente debido a:
 
 ### Código
 
-Código en línea:
-
+Código en línea:  
 ```
-var nombre = "John";
+`var nombre = "John";`
 ```
 
 ### Párrafos y saltos de línea
 
-Para un salto de línea sin crear párrafo:
-
+Para un salto de línea sin crear párrafo:  
 ```
 Texto con salto de línea  
 Texto debajo
@@ -133,3 +131,10 @@ Texto debajo
 - Control de versiones e historial.
 
 ---
+
+## Bibliografía
+
+- Platas, A. B., & García, R. P. Ñ. (2017). *TEIdown: Uso de MarkDown extendido para el marcado automático de documentos TEI*.  
+- Cómo utilizar Markdown: https://experienceleague.adobe.com/es/docs/contributor/contributor-guide/writing-essentials/markdown  
+- Pressman, R. S. (2010). *Ingeniería del Software* (7ª ed.).  
+- Sommerville, I. (2011). *Ingeniería del Software* (9ª ed.).
