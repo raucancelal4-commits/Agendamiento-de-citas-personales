@@ -18,17 +18,13 @@ Markdown se usa ampliamente debido a:
 - **Compatibilidad:** Funciona en múltiples herramientas como GitHub, GitLab, VS Code, Slack, Discord, etc.  
 - **Eficiencia:** Facilita la escritura rápida sin necesidad de editores pesados como Word.
 
----
-
 ## Ejemplo práctico de uso de Markdown
 
 ### Encabezados
 
-```
 # Encabezado de nivel 1
 ## Encabezado de nivel 2
 ### Encabezado de nivel 3
-```
 
 ### Formatos de texto
 
@@ -36,91 +32,74 @@ Markdown se usa ampliamente debido a:
 - *Cursiva:* `*cursiva*`
 - ~~Tachado:~~ `~~tachado~~`
 - Citas:
-  ```
   > Esto es una cita.
   > - Autor
-  ```
 - Líneas horizontales: `---` / `***` / `___`
 - Énfasis: `*texto enfatizado*` o `_texto enfatizado_`
 
 ### Listas
 
 #### No ordenadas
-```
+
 - Elemento
 - Elemento
 - Elemento
-```
 
 #### Ordenadas
-```
+
 1. Elemento 1
 2. Elemento 2
 3. Elemento 3
-```
+
 
 #### Anidadas
-```
+
 - Elemento 1
     - Elemento 1.1
     - Elemento 1.2
 - Elemento 2
     - Elemento 2.1
     - Elemento 2.2
-```
 
 ### Comentarios
 
-```
 <!-- comentario -->
-```
 
 ### Enlaces
 
-```
-[Visitar GitHub](https://github.com) 
-```
+[Visitar GitHub](https://github.com)
 
 ### Imágenes
-
-```
 ![Logo de Markdown](https://store-images.s-microsoft.com/image/apps.50768.14132366815472789.d93aceff-2beb-4a3c-9a29-f28c2ff8b309.00edb73c-9c63-4902-b120-e9b1fa714f4e)
-```
+
 
 ### Tablas
 
-```
 | Encabezado 1 | Encabezado 2 | Encabezado 3 |
 | ------------ | ------------ | ------------ |
 | Dato 1       | Dato 2       | Dato 3       |
 | Dato 4       | Dato 5       | Dato 6       |
-```
 
 **Alineación:**
 
-```
 | Izquierda      | Centro        | Derecha       |
 | :------------- | :-----------: | ------------: |
 | Dato 1         | Dato 2        | Dato 3        |
 | Dato 4         | Dato 5        | Dato 6        |
-```
 
 ### Código
 
 Código en línea:  
-```
+
 `var nombre = "John";`
-```
+
 
 ### Párrafos y saltos de línea
 
 Para un salto de línea sin crear párrafo:  
-```
+
 Texto con salto de línea  
 Texto debajo
-```
-
----
 
 ## Ventajas de usar Markdown con GitHub
 
@@ -129,8 +108,6 @@ Texto debajo
 - Pull requests para colaboración.
 - Publicación con GitHub Pages.
 - Control de versiones e historial.
-
----
 
 ## Bibliografía
 
