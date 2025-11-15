@@ -111,7 +111,7 @@ Texto debajo
 
 ## Bibliografía
 
-- Platas, A. B., & García, R. P. Ñ. (2017). TEIdown: Uso de MarkDown extendido para el marcado automático de documentos TEI. Revista de humanidades digitales, 1, 57-75. Google académico.
+- Platas, A. B., & García, R. P. Ñ. (2017). TEIdown: Uso de MarkDown extendido para el marcado automático de documentos TEI. Revista de humanidades digitales, 1, 57-75. (https://revistas.uned.es/index.php/RHD/article/view/16683/16586).
 - Cómo utilizar MarkDown para escribir documentación técnica: https://experienceleague.adobe.com/es/docs/contributor/contributor-guide/writing-essentials/markdown
 - Pressman, R. S. (2010). Ingeniería del Software: Un enfoque práctico (7ª ed.). McGraw-Hill.
 - Sommerville, I. (2011). Ingeniería del Software (9ª ed.). Pearson.
