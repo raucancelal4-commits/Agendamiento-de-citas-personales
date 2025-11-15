@@ -40,7 +40,7 @@ Es ideal para estudiantes, trabajadores y cualquier persona que desee mantener u
 | **CP1 – Registrar cita** | Fecha: 21/10/2025, Hora: 10:00, “Cita odontológica” | Cita registrada correctamente | ✅ Correcto |
 | **CP2 – Editar cita** | Cambiar “10:00” a “12:30” | Cita actualizada | ✅ Correcto |
 | **CP3 – Eliminar cita** | “Cita odontológica” | Cita eliminada de la lista | ✅ Correcto |
-| **CP4 – Consultar citas del día** | Fecha actual | Mostrar citas del día | ✅ Correcto |
+| **CP4 – Consultar citas del día** | Fecha actual | Mostrar Citas del día | ✅ Correcto |
 | **CP5 – Recordatorio** | Cita 10:00 | Notificación a las 9:50 | ✅ Correcto |
 
 ---
@@ -108,5 +108,5 @@ El uso de GitHub aseguró un control de versiones ordenado, colaborativo y traza
 ---
 
 ## Autor
-**Ronny Aucancela**
+**Ronny Polivio Aucancela Lascano**
 
